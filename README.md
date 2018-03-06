@@ -17,14 +17,14 @@ Add view to your xml file:
 Create instance of ***ImageAwesomeBanner*** :
 
     var slider = FindViewById<ImageAwesomeBanner>(Resource.Id.slider);
-For add slide use ***AddSlide*** method:
+add slide by using ***AddSlide*** method:
 
     slider.AddSlide(new XamarinAwesomeBannerSlider.Entities.Slide() {
                 Image = Resources.GetDrawable(Resource.Drawable.ic_test),
                 Title = "title 1",
                 Decription = "description 1"
             });
-For customization using ***Config*** :
+For customization use ***Config*** class :
 
     slider.ConfigSlide(new XamarinAwesomeBannerSlider.Entities.Config()
 	  {
