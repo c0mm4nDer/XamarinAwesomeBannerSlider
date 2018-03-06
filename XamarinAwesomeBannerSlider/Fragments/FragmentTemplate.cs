@@ -96,6 +96,7 @@ namespace XamarinAwesomeBannerSlider.Fragments
         }
 
 
+
         /// <summary>
         /// اعمال تنظمات از قبیل : فونت ، رنگ ، اندازه
         /// </summary>
