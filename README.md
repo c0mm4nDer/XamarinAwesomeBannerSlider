@@ -28,7 +28,7 @@ For customization use ***Config*** class :
 
     slider.ConfigSlide(new XamarinAwesomeBannerSlider.Entities.Config()
 	  {
-	      DescriptionColor = Android.Graphics.Color.Aqua, //or set null default color. default->whi
+	      DescriptionColor = Android.Graphics.Color.Aqua, //or set null default color. default->white
 	      TitleColor = Android.Graphics.Color.Bisque,  //or set null default color. default->white
 	      DescriptionTypeFace = fontBYekanNormal,
 	      TitleTypeFace = fontBYekanNormal
