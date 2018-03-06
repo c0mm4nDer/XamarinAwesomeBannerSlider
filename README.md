@@ -1,0 +1,2 @@
+# XamarinAwesomeBannerSlider
+Xamarin.Android Library
