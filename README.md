@@ -1,3 +1,7 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+This repository is now deprecated. This is no longer supported.
 
 # XamarinAwesomeBannerSlider
 Xamarin.Android Library for using as banner slider.
